@@ -1,2 +1,2 @@
-# Calculadora-C-
-Calculadora simples de console feita em C#
+# Calculadora C#
+Calculadora de operadores básicos feita em C#
